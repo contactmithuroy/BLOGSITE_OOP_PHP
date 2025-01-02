@@ -1,6 +1,6 @@
 # Portfolio Website
 
-A dynamic **Portfolio Website** developed using **PHP** and **MySQL** to showcase skills, projects, and achievements. This website provides a professional online presence, featuring an easy-to-navigate interface, secure user authentication, and a user-friendly admin panel to manage content.
+A dynamic portfolio website was developed using PHP and MySQL. This website provides a dynamic feature that can change by backend system like post, comment, users, also can changabel header, footer option, have settings to change all text and images, featuring an easy-to-navigate interface, secure user authentication, and a user-friendly admin panel to manage content.
 
 ## Key Features
 - **User Authentication**: Secure login and registration system with PHP and MySQL.
